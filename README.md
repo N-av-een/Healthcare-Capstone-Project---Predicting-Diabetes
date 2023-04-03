@@ -8,7 +8,7 @@ _**Dataset Description**_
 
 The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and includes data on females of Pima Indian heritage who are at least 21 years old. The following variables are included in the dataset:
 
-Pregnancies: Number of times pregnant 
+Pregnancies: Number of times pregnant \n
 Glucose: Plasma glucose concentration 2 hours in an oral glucose tolerance test
 BloodPressure: Diastolic blood pressure (mm Hg)
 SkinThickness: Triceps skin fold thickness (mm)
