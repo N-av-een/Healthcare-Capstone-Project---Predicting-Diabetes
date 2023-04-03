@@ -8,15 +8,15 @@ _**Dataset Description**_
 
 The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and includes data on females of Pima Indian heritage who are at least 21 years old. The following variables are included in the dataset:
 
-Pregnancies: Number of times pregnant \n
-Glucose: Plasma glucose concentration 2 hours in an oral glucose tolerance test
-BloodPressure: Diastolic blood pressure (mm Hg)
-SkinThickness: Triceps skin fold thickness (mm)
-Insulin: 2-Hour serum insulin (mu U/ml)
-BMI: Body mass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction: Diabetes pedigree function
-Age: Age (years)
-Outcome: Class variable (0 or 1)
+1. Pregnancies: Number of times pregnant \n
+2. Glucose: Plasma glucose concentration 2 hours in an oral glucose tolerance test
+3. BloodPressure: Diastolic blood pressure (mm Hg)
+4. SkinThickness: Triceps skin fold thickness (mm)
+5. Insulin: 2-Hour serum insulin (mu U/ml)
+6. BMI: Body mass index (weight in kg/(height in m)^2)
+7. DiabetesPedigreeFunction: Diabetes pedigree function
+8. Age: Age (years)
+9. Outcome: Class variable (0 or 1)
 
 _**Approach**_
 
