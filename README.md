@@ -1,10 +1,10 @@
-# Healthcare Capstone Project - Predicting Diabetes
+**Healthcare Capstone Project - Predicting Diabetes**
 
-#Problem Statement
+_Problem Statement_
 
 The objective of this project is to predict whether a patient has diabetes or not based on certain diagnostic measurements. The dataset consists of several medical predictor variables and one target variable, Outcome.
 
-#Dataset Description
+_Dataset Description_
 
 The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases and includes data on females of Pima Indian heritage who are at least 21 years old. The following variables are included in the dataset:
 
@@ -18,7 +18,8 @@ DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 Outcome: Class variable (0 or 1)
 
-#Approach
+_Approach_
+
 The following steps were taken in the analysis:
 
 1.Descriptive analysis was performed to understand the variables and corresponding values. Missing values were identified in columns with minimum values of 0, including Glucose, BloodPressure, SkinThickness, Insulin, and BMI. Missing values were treated using appropriate methods.
@@ -32,5 +33,6 @@ The following steps were taken in the analysis:
 9. A classification report was created by analyzing sensitivity, specificity, AUC (ROC curve), and other parameters. The values of these parameters were settled upon after thorough analysis.
 10. A dashboard was created in Tableau using appropriate chart types and metrics useful for the business. The dashboard included a pie chart to describe the diabetic/non-diabetic population, scatter charts between relevant variables, histogram/frequency charts to analyze the distribution of the data, a heatmap of correlation analysis among relevant variables, and a bubble chart analyzing different variables for different age brackets.
 
-#Conclusion
+_Conclusion_
+
 In conclusion, this project was successful in building a model to accurately predict whether the patients in the dataset have diabetes or not. The findings from the exploratory analysis and the insights gained through the model building process were valuable in providing insights into the problem. The dashboard created in Tableau is a useful tool for visualizing the data and communicating the findings to stakeholders.
