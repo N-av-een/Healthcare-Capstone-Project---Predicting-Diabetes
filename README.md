@@ -1,6 +1,6 @@
 **Healthcare Capstone Project - Predicting Diabetes**
 
-_Problem Statement_
+__**Problem Statement**__
 
 The objective of this project is to predict whether a patient has diabetes or not based on certain diagnostic measurements. The dataset consists of several medical predictor variables and one target variable, Outcome.
 
